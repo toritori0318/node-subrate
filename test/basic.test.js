@@ -49,8 +49,8 @@ describe('basic', function() {
         }
 
         assert.ok(summary['hoge'] <= 12000 && summary['hoge'] >= 8000,  'hoge ok')
-        assert.ok(summary['fuga'] <= 22000 && summary['fuga'] >= 18000,  'hoge ok')
-        assert.ok(summary['piyo'] <= 72000 && summary['piyo'] >= 68000,  'hoge ok')
+        assert.ok(summary['fuga'] <= 22000 && summary['fuga'] >= 18000, 'fuga ok')
+        assert.ok(summary['piyo'] <= 72000 && summary['piyo'] >= 68000, 'piyo ok')
 
         done();
     });
