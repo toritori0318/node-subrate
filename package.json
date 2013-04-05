@@ -1,0 +1,11 @@
+{
+  "author": "toritori0318",
+  "name": "subrate",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
