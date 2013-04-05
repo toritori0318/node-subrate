@@ -4,6 +4,8 @@ node-subrate is implementation of [Sub::Rate](https://github.com/typester/Sub-Ra
 
 # Example
 
+    var subrate = require('subrate')
+
     var rate = new subrate({max_rate : 100});
 
     var r1 = 0
